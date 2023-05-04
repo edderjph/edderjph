@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edderjph
+Hi there 👋 I'm Edder Pérez
 - 👀 I’m interested in  >  web development, CMS, frontend develop, ux/ui design
 - 🌱 I’m currently learning  >  front-end and web design
 - 💞️ I’m looking to collaborate > on projects, startups, company
